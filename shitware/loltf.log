@@ -1,0 +1,557 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(499,5): warning MSB8004: каталог Intermediate заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Intermediate.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(500,5): warning MSB8004: каталог Output заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Output.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: промежуточный каталог (.\shitware\) содержит файлы, которые используются совместно с другим проектом (LOLTF.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Driver.cpp
+  External.cpp
+D:\privatealien\Cheat.h(127,32): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\Cheat.h(127,53): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\Cheat.h(127,74): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\Cheat.h(163,22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\Cheat.h(164,22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\Cheat.h(165,22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\Cheat.h(167,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\Cheat.h(168,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\Cheat.h(169,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\Cheat.h(171,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\Cheat.h(172,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\Cheat.h(173,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\Cheat.h(174,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\Cheat.h(175,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\Cheat.h(176,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\Cheat.h(178,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\Cheat.h(179,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\Cheat.h(180,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\Cheat.h(181,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\Cheat.h(183,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\Cheat.h(184,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\Cheat.h(185,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\Cheat.h(186,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\Cheat.h(188,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\Cheat.h(189,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\Cheat.h(190,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\Cheat.h(191,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\Cheat.h(232,74): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\privatealien\xor.hpp(211,22): warning C4244: return: преобразование "int" в "char", возможна потеря данных
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\uxtheme.h(1600,57): warning C4459: объявление "hwnd" скрывает глобальное объявление
+D:\privatealien\Cheat.h(21,6): message : см. объявление "hwnd"
+D:\privatealien\Keybind.h(7,1): warning C4005: IM_ARRAYSIZE: изменение макроопределения
+D:\privatealien\Imgui/imgui.h(87): message : см. предыдущее определение "IM_ARRAYSIZE"
+D:\privatealien\Keybind.h(55,22): warning C4100: blank: неиспользованный формальный параметр
+D:\privatealien\Keybind.h(71,24): warning C4100: blank: неиспользованный формальный параметр
+D:\privatealien\Keybind.h(87,25): warning C4100: blank: неиспользованный формальный параметр
+D:\privatealien\Keybind.h(103,23): warning C4100: blank: неиспользованный формальный параметр
+D:\privatealien\Keybind.h(119,26): warning C4100: blank: неиспользованный формальный параметр
+D:\privatealien\Keybind.h(785,21): warning C4459: объявление "aimkeys" скрывает глобальное объявление
+D:\privatealien\Cheat.h(37,20): message : см. объявление "aimkeys"
+D:\privatealien\Aimbot.cpp(10,22): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\Aimbot.cpp(11,22): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\WindowStreamProof.h(28,55): warning C4100: code: неиспользованный формальный параметр
+D:\privatealien\WindowStreamProof.h(28,45): warning C4100: line: неиспользованный формальный параметр
+D:\privatealien\WindowStreamProof.h(28,35): warning C4100: file: неиспользованный формальный параметр
+D:\privatealien\DrawEsp.h(1,77): warning C4459: объявление "color" скрывает глобальное объявление
+D:\privatealien\Cheat.h(496,3): message : см. объявление "color"
+D:\privatealien\DrawEsp.h(2,14): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(3,14): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(6,139): warning C4305: аргумент: усечение из "double" в "float"
+D:\privatealien\DrawEsp.h(6,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(6,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(6,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(7,139): warning C4305: аргумент: усечение из "double" в "float"
+D:\privatealien\DrawEsp.h(7,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(7,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(7,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(8,147): warning C4305: аргумент: усечение из "double" в "float"
+D:\privatealien\DrawEsp.h(8,60): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(8,55): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(8,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(9,147): warning C4305: аргумент: усечение из "double" в "float"
+D:\privatealien\DrawEsp.h(9,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(9,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(9,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(10,147): warning C4305: аргумент: усечение из "double" в "float"
+D:\privatealien\DrawEsp.h(10,58): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(10,53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(10,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(11,147): warning C4305: аргумент: усечение из "double" в "float"
+D:\privatealien\DrawEsp.h(11,58): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(11,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(11,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(12,155): warning C4305: аргумент: усечение из "double" в "float"
+D:\privatealien\DrawEsp.h(12,66): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(12,59): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(12,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(13,155): warning C4305: аргумент: усечение из "double" в "float"
+D:\privatealien\DrawEsp.h(13,66): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(13,59): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(13,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(16,83): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(16,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(16,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(16,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(17,83): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(17,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(17,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(17,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(18,91): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(18,60): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(18,55): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(18,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(19,91): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(19,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(19,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(19,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(20,91): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(20,58): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(20,53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(20,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(21,91): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(21,58): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(21,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(21,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(22,99): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(22,66): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(22,59): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(22,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(23,99): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(23,66): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(23,59): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(23,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(26,46): warning C4459: объявление "h" скрывает глобальное объявление
+D:\privatealien\Print.hpp(13,8): message : см. объявление "h"
+D:\privatealien\DrawEsp.h(26,55): warning C4459: объявление "color" скрывает глобальное объявление
+D:\privatealien\Cheat.h(496,3): message : см. объявление "color"
+D:\privatealien\DrawEsp.h(29,145): warning C4305: аргумент: усечение из "double" в "float"
+D:\privatealien\DrawEsp.h(29,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(29,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(29,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(29,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(26,55): warning C4100: color: неиспользованный формальный параметр
+D:\privatealien\DrawEsp.h(31,85): warning C4459: объявление "h" скрывает глобальное объявление
+D:\privatealien\Print.hpp(13,8): message : см. объявление "h"
+D:\privatealien\DrawEsp.h(31,85): warning C4459: объявление "color" скрывает глобальное объявление
+D:\privatealien\Cheat.h(496,3): message : см. объявление "color"
+D:\privatealien\DrawEsp.h(33,15): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(34,68): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(34,57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(34,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(34,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(35,72): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(35,59): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(35,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(35,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(36,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(36,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(36,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(36,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(36,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(39,85): warning C4459: объявление "color" скрывает глобальное объявление
+D:\privatealien\Cheat.h(496,3): message : см. объявление "color"
+D:\privatealien\DrawEsp.h(40,14): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(41,14): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(44,161): warning C4305: аргумент: усечение из "double" в "float"
+D:\privatealien\DrawEsp.h(44,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(44,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(44,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(45,161): warning C4305: аргумент: усечение из "double" в "float"
+D:\privatealien\DrawEsp.h(45,74): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(45,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(45,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(46,169): warning C4305: аргумент: усечение из "double" в "float"
+D:\privatealien\DrawEsp.h(46,82): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(46,77): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(46,64): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(47,169): warning C4305: аргумент: усечение из "double" в "float"
+D:\privatealien\DrawEsp.h(47,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(47,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(47,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(48,169): warning C4305: аргумент: усечение из "double" в "float"
+D:\privatealien\DrawEsp.h(48,80): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(48,75): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(48,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(49,169): warning C4305: аргумент: усечение из "double" в "float"
+D:\privatealien\DrawEsp.h(49,80): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(49,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(49,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(50,177): warning C4305: аргумент: усечение из "double" в "float"
+D:\privatealien\DrawEsp.h(50,88): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(50,81): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(50,66): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(51,177): warning C4305: аргумент: усечение из "double" в "float"
+D:\privatealien\DrawEsp.h(51,88): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(51,81): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(51,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(54,105): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(54,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(54,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(54,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(55,105): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(55,74): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(55,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(55,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(56,113): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(56,82): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(56,77): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(56,64): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(57,113): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(57,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(57,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(57,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(58,113): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(58,80): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(58,75): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(58,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(59,113): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(59,80): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(59,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(59,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(60,121): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(60,88): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(60,81): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(60,66): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(61,121): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(61,88): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(61,81): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(61,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(64,53): warning C4459: объявление "color" скрывает глобальное объявление
+D:\privatealien\Cheat.h(496,3): message : см. объявление "color"
+D:\privatealien\DrawEsp.h(67,153): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(67,135): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(67,117): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(67,99): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(67,164): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(67,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(67,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(67,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\DrawEsp.h(67,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\W2S_ Camera.h(27,4): warning C4201: нестандартное расширение: структура (объединение) без имени
+D:\privatealien\W2S_ Camera.h(39,38): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\W2S_ Camera.h(39,23): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+D:\privatealien\W2S_ Camera.h(40,36): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\W2S_ Camera.h(40,21): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+D:\privatealien\W2S_ Camera.h(41,37): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\W2S_ Camera.h(41,22): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+D:\privatealien\W2S_ Camera.h(66,22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\W2S_ Camera.h(67,22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\W2S_ Camera.h(68,22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\W2S_ Camera.h(87,33): warning C4244: =: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+D:\privatealien\W2S_ Camera.h(96,19): warning C4459: объявление "vCamera" скрывает глобальное объявление
+D:\privatealien\W2S_ Camera.h(79,11): message : см. объявление "vCamera"
+D:\privatealien\definitions.h(48,28): warning C4305: инициализация: усечение из "double" в "float"
+D:\privatealien\definitions.h(50,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\privatealien\MainIncludes.h(232,25): warning C4100: in: неиспользованный формальный параметр
+D:\privatealien\MainIncludes.h(396,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(408,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(412,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(416,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(420,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(424,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(428,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(432,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(436,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(440,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(444,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(448,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(452,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(456,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(460,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(464,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(468,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(472,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(476,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(480,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(484,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(488,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(492,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(496,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(500,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(504,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(508,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(512,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(516,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(520,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(524,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(528,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(532,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(536,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(540,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(544,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(548,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(552,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(556,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(560,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(564,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(568,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(572,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(576,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(580,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(584,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(588,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(592,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(596,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(600,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(604,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(608,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\privatealien\MainIncludes.h(673,6): warning C4551: в вызове функции отсутствует список аргументов
+D:\privatealien\MainIncludes.h(679,11): warning C4551: в вызове функции отсутствует список аргументов
+D:\privatealien\MainIncludes.h(690,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\privatealien\MainIncludes.h(715,18): warning C4459: объявление "Color" скрывает глобальное объявление
+D:\privatealien\MainIncludes.h(45,16): message : см. объявление "Color"
+D:\privatealien\MainIncludes.h(673,6): warning C4996: 'open': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _open. See online help for details.
+D:\privatealien\MainIncludes.h(679,12): warning C4996: 'open': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _open. See online help for details.
+D:\privatealien\MainIncludes.h(807,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\privatealien\MainIncludes.h(807,6): warning C4189: len: локальная переменная инициализирована, но не использована
+D:\privatealien\MainIncludes.h(829,53): warning C4459: объявление "color" скрывает глобальное объявление
+D:\privatealien\Cheat.h(496,3): message : см. объявление "color"
+D:\privatealien\MainIncludes.h(840,9): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\privatealien\MainIncludes.h(841,9): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\privatealien\MainIncludes.h(845,87): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\MainIncludes.h(845,80): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\MainIncludes.h(846,87): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\MainIncludes.h(846,80): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\MainIncludes.h(847,87): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\MainIncludes.h(847,80): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\MainIncludes.h(848,87): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\MainIncludes.h(848,80): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\MainIncludes.h(850,184): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\MainIncludes.h(850,167): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\MainIncludes.h(850,149): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\MainIncludes.h(850,131): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\privatealien\MainIncludes.h(850,80): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\MainIncludes.h(850,77): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\privatealien\Imgui/imgui_internal.h(2247,69): warning C4459: объявление "tab" скрывает глобальное объявление
+D:\privatealien\definitions.h(56,5): message : см. объявление "tab"
+D:\privatealien\Imgui/imgui_internal.h(2248,56): warning C4459: объявление "tab" скрывает глобальное объявление
+D:\privatealien\definitions.h(56,5): message : см. объявление "tab"
+External.cpp(92,9): warning C4189: handle: локальная переменная инициализирована, но не использована
+External.cpp(98,25): warning C4100: mesh: неиспользованный формальный параметр
+External.cpp(115,36): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(115,21): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(121,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+External.cpp(122,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+External.cpp(123,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+External.cpp(139,115): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+External.cpp(139,91): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+External.cpp(139,68): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+External.cpp(139,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+External.cpp(140,115): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+External.cpp(140,91): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+External.cpp(140,68): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+External.cpp(140,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+External.cpp(141,103): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+External.cpp(141,87): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+External.cpp(141,68): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+External.cpp(141,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+External.cpp(142,103): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+External.cpp(142,87): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+External.cpp(142,68): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+External.cpp(142,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+External.cpp(145,132): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+External.cpp(145,67): warning C4244: аргумент: преобразование "DWORD" в "float", возможна потеря данных
+External.cpp(145,52): warning C4244: аргумент: преобразование "DWORD" в "float", возможна потеря данных
+External.cpp(150,169): warning C4244: аргумент: преобразование "DWORD" в "float", возможна потеря данных
+External.cpp(150,137): warning C4244: аргумент: преобразование "DWORD" в "float", возможна потеря данных
+External.cpp(150,97): warning C4244: аргумент: преобразование "DWORD" в "float", возможна потеря данных
+External.cpp(150,65): warning C4244: аргумент: преобразование "DWORD" в "float", возможна потеря данных
+External.cpp(151,21): warning C4459: объявление "fovcircle" скрывает глобальное объявление
+D:\privatealien\definitions.h(24,12): message : см. объявление "fovcircle"
+External.cpp(152,28): warning C4459: объявление "fovcirclefilled" скрывает глобальное объявление
+D:\privatealien\definitions.h(27,12): message : см. объявление "fovcirclefilled"
+External.cpp(155,130): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+External.cpp(155,68): warning C4244: аргумент: преобразование "DWORD" в "float", возможна потеря данных
+External.cpp(155,53): warning C4244: аргумент: преобразование "DWORD" в "float", возможна потеря данных
+External.cpp(156,22): warning C4459: объявление "square_fov" скрывает глобальное объявление
+D:\privatealien\definitions.h(25,12): message : см. объявление "square_fov"
+External.cpp(157,21): warning C4459: объявление "fovcircle" скрывает глобальное объявление
+D:\privatealien\definitions.h(24,12): message : см. объявление "fovcircle"
+External.cpp(158,28): warning C4459: объявление "fovcirclefilled" скрывает глобальное объявление
+D:\privatealien\definitions.h(27,12): message : см. объявление "fovcirclefilled"
+External.cpp(161,136): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+External.cpp(161,74): warning C4244: аргумент: преобразование "DWORD" в "float", возможна потеря данных
+External.cpp(161,59): warning C4244: аргумент: преобразование "DWORD" в "float", возможна потеря данных
+External.cpp(162,130): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+External.cpp(162,68): warning C4244: аргумент: преобразование "DWORD" в "float", возможна потеря данных
+External.cpp(162,53): warning C4244: аргумент: преобразование "DWORD" в "float", возможна потеря данных
+External.cpp(163,22): warning C4459: объявление "square_fov" скрывает глобальное объявление
+D:\privatealien\definitions.h(25,12): message : см. объявление "square_fov"
+External.cpp(164,21): warning C4459: объявление "fovcircle" скрывает глобальное объявление
+D:\privatealien\definitions.h(24,12): message : см. объявление "fovcircle"
+External.cpp(168,169): warning C4244: аргумент: преобразование "DWORD" в "float", возможна потеря данных
+External.cpp(168,137): warning C4244: аргумент: преобразование "DWORD" в "float", возможна потеря данных
+External.cpp(168,97): warning C4244: аргумент: преобразование "DWORD" в "float", возможна потеря данных
+External.cpp(168,65): warning C4244: аргумент: преобразование "DWORD" в "float", возможна потеря данных
+External.cpp(169,175): warning C4244: аргумент: преобразование "DWORD" в "float", возможна потеря данных
+External.cpp(169,143): warning C4244: аргумент: преобразование "DWORD" в "float", возможна потеря данных
+External.cpp(169,103): warning C4244: аргумент: преобразование "DWORD" в "float", возможна потеря данных
+External.cpp(169,71): warning C4244: аргумент: преобразование "DWORD" в "float", возможна потеря данных
+External.cpp(176,26): warning C4459: объявление "closestPawn" скрывает глобальное объявление
+D:\privatealien\MainIncludes.h(47,11): message : см. объявление "closestPawn"
+External.cpp(203,37): warning C4459: объявление "CurrentActorMesh" скрывает глобальное объявление
+External.cpp(126,11): message : см. объявление "CurrentActorMesh"
+External.cpp(241,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+External.cpp(242,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+External.cpp(257,75): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+External.cpp(257,62): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+External.cpp(257,58): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+External.cpp(257,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+External.cpp(263,77): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+External.cpp(263,64): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+External.cpp(263,60): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+External.cpp(263,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+External.cpp(267,77): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+External.cpp(267,64): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+External.cpp(267,60): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+External.cpp(267,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+External.cpp(273,110): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+External.cpp(273,69): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+External.cpp(273,56): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+External.cpp(273,52): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+External.cpp(273,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+External.cpp(276,111): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+External.cpp(276,69): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+External.cpp(276,56): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+External.cpp(276,52): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+External.cpp(276,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+External.cpp(289,41): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+External.cpp(289,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+External.cpp(314,95): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(314,87): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(314,71): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(314,60): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(315,95): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(315,87): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(315,71): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(315,60): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(316,95): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(316,87): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(316,71): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(316,60): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(317,95): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(317,87): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(317,71): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(317,60): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(318,101): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(318,90): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(318,71): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(318,60): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(319,101): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(319,90): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(319,71): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(319,60): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(320,101): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(320,90): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(320,71): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(320,60): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(321,101): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(321,90): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(321,71): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(321,60): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(322,89): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(322,81): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(322,65): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(322,57): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(323,89): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(323,81): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(323,65): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(323,57): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(324,89): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(324,81): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(324,65): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(324,57): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(325,89): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(325,81): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(325,65): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(325,57): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(331,29): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+External.cpp(353,80): warning C4244: аргумент: преобразование "DWORD_PTR" в "int", возможна потеря данных
+External.cpp(383,80): warning C4244: аргумент: преобразование "DWORD_PTR" в "int", возможна потеря данных
+External.cpp(412,80): warning C4244: аргумент: преобразование "DWORD_PTR" в "int", возможна потеря данных
+External.cpp(152,10): warning C4189: fovcirclefilled: локальная переменная инициализирована, но не использована
+External.cpp(151,9): warning C4189: fovcircle: локальная переменная инициализирована, но не использована
+External.cpp(158,10): warning C4189: fovcirclefilled: локальная переменная инициализирована, но не использована
+External.cpp(157,9): warning C4189: fovcircle: локальная переменная инициализирована, но не использована
+External.cpp(156,9): warning C4189: square_fov: локальная переменная инициализирована, но не использована
+External.cpp(164,9): warning C4189: fovcircle: локальная переменная инициализирована, но не использована
+External.cpp(163,9): warning C4189: square_fov: локальная переменная инициализирована, но не использована
+External.cpp(214,14): warning C4189: bIsTargeting: локальная переменная инициализирована, но не использована
+External.cpp(204,13): warning C4189: MyTeamId: локальная переменная инициализирована, но не использована
+External.cpp(210,14): warning C4189: bIsReloadingWeapon: локальная переменная инициализирована, но не использована
+External.cpp(206,13): warning C4189: ActorTeamId: локальная переменная инициализирована, но не использована
+External.cpp(440,52): warning C4459: объявление "selected" скрывает глобальное объявление
+D:\privatealien\definitions.h(21,12): message : см. объявление "selected"
+External.cpp(469,37): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+External.cpp(471,37): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+External.cpp(479,37): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+External.cpp(481,37): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+External.cpp(499,55): warning C4459: объявление "selected" скрывает глобальное объявление
+D:\privatealien\definitions.h(21,12): message : см. объявление "selected"
+External.cpp(528,42): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+External.cpp(530,42): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+External.cpp(538,43): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+External.cpp(540,43): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+External.cpp(610,25): warning C4459: объявление "selected" скрывает глобальное объявление
+D:\privatealien\definitions.h(21,12): message : см. объявление "selected"
+External.cpp(611,29): warning C4459: объявление "sub_selected" скрывает глобальное объявление
+D:\privatealien\definitions.h(22,12): message : см. объявление "sub_selected"
+External.cpp(623,27): warning C4459: объявление "color" скрывает глобальное объявление
+D:\privatealien\Cheat.h(496,3): message : см. объявление "color"
+External.cpp(707,82): warning C4305: аргумент: усечение из "ImGuiWindowFlags_" в "bool"
+External.cpp(810,13): warning C4459: объявление "Message" скрывает глобальное объявление
+External.cpp(806,5): message : см. объявление "Message"
+External.cpp(843,23): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+External.cpp(844,23): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+D:\privatealien\xor.hpp(224,33): warning C4244: =: преобразование "int" в "char", возможна потеря данных
+D:\privatealien\xor.hpp(222): message : во время компиляции функции-члена класс шаблон "char *CXorString<IndexList<0,1,2,3,4,5,6,7,8,9>>::decrypt(void)"
+External.cpp(65): message : выполняется компиляция ссылки на экземпляр шаблон функции "char *CXorString<IndexList<0,1,2,3,4,5,6,7,8,9>>::decrypt(void)"
+External.cpp(64): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "CXorString<IndexList<0,1,2,3,4,5,6,7,8,9>>"
+D:\privatealien\WindowStreamProof.h(61,1): warning C4459: объявление "h" скрывает глобальное объявление
+D:\privatealien\Print.hpp(13,8): message : см. объявление "h"
+D:\privatealien\WindowStreamProof.h(61): message : во время компиляции функции-члена класс шаблон "TScopedHandle<HANDLE,HANDLE_traits> &TScopedHandle<HANDLE,HANDLE_traits>::operator =(T)"
+          with
+          [
+              T=HANDLE
+          ]
+D:\privatealien\WindowStreamProof.h(206): message : выполняется компиляция ссылки на экземпляр шаблон функции "TScopedHandle<HANDLE,HANDLE_traits> &TScopedHandle<HANDLE,HANDLE_traits>::operator =(T)"
+          with
+          [
+              T=HANDLE
+          ]
+D:\privatealien\WindowStreamProof.h(84): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "TScopedHandle<HANDLE,HANDLE_traits>"
+D:\privatealien\WindowStreamProof.h(48,1): warning C4459: объявление "h" скрывает глобальное объявление
+D:\privatealien\Print.hpp(13,8): message : см. объявление "h"
+D:\privatealien\WindowStreamProof.h(48): message : во время компиляции функции-члена класс шаблон "TScopedHandle<HANDLE,HANDLE_traits>::TScopedHandle(T)"
+          with
+          [
+              T=HANDLE
+          ]
+D:\privatealien\WindowStreamProof.h(94): message : выполняется компиляция ссылки на экземпляр шаблон функции "TScopedHandle<HANDLE,HANDLE_traits>::TScopedHandle(T)"
+          with
+          [
+              T=HANDLE
+          ]
+D:\privatealien\Print.hpp(165,20): warning C4505: "string_to_timet": неиспользованная функция с внутренним связыванием удалена
+D:\privatealien\Print.hpp(172,16): warning C4505: "timet_to_tm": неиспользованная функция с внутренним связыванием удалена
+D:\privatealien\input.hpp(8,24): warning C4505: "MouseController::Init": неиспользованная функция с внутренним связыванием удалена
+D:\privatealien\input.hpp(69,24): warning C4505: "MouseController::Move_Mouse": неиспользованная функция с внутренним связыванием удалена
+D:\privatealien\input.hpp(82,21): warning C4505: "MouseController::GetAsyncKeyState": неиспользованная функция с внутренним связыванием удалена
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Protect.cpp
+Protect.cpp(6,27): warning C4100: index: неиспользованный формальный параметр
+  Создание кода
+D:\privatealien\External.cpp(58): warning C4702: недостижимый код
+D:\privatealien\External.cpp(353): warning C4700: использована неинициализированная локальная переменная "LOL"
+D:\privatealien\External.cpp(314): warning C4701: использована потенциально неинициализированная локальная переменная "ESPSkeleton"
+  1880 of 1895 functions (99.2%) were compiled, the rest were copied from previous compilation.
+    63 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  loltf.vcxproj -> D:\privatealien\build\AMD.exe

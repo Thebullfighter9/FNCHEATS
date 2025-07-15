@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\Downloads\\fn_ext_leaked_again_by_l1nky_1\\fn ext leaked again by l1nky\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CD68DB-5BF7-4921-AB55-5550284140A9}|shitware.vcxproj|C:\\Users\\Alex\\Downloads\\fn_ext_leaked_again_by_l1nky_1\\fn ext leaked again by l1nky\\Driver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F8CD68DB-5BF7-4921-AB55-5550284140A9}|shitware.vcxproj|solutionrelative:Driver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CD68DB-5BF7-4921-AB55-5550284140A9}|shitware.vcxproj|C:\\Users\\Alex\\Downloads\\fn_ext_leaked_again_by_l1nky_1\\fn ext leaked again by l1nky\\Aimbot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F8CD68DB-5BF7-4921-AB55-5550284140A9}|shitware.vcxproj|solutionrelative:Aimbot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CD68DB-5BF7-4921-AB55-5550284140A9}|shitware.vcxproj|C:\\Users\\Alex\\Downloads\\fn_ext_leaked_again_by_l1nky_1\\fn ext leaked again by l1nky\\Imgui\\imgui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F8CD68DB-5BF7-4921-AB55-5550284140A9}|shitware.vcxproj|solutionrelative:Imgui\\imgui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CD68DB-5BF7-4921-AB55-5550284140A9}|shitware.vcxproj|C:\\Users\\Alex\\Downloads\\fn_ext_leaked_again_by_l1nky_1\\fn ext leaked again by l1nky\\External.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F8CD68DB-5BF7-4921-AB55-5550284140A9}|shitware.vcxproj|solutionrelative:External.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Driver.cpp",
+              "DocumentMoniker": "C:\\Users\\Alex\\Downloads\\fn_ext_leaked_again_by_l1nky_1\\fn ext leaked again by l1nky\\Driver.cpp",
+              "RelativeDocumentMoniker": "Driver.cpp",
+              "ToolTip": "C:\\Users\\Alex\\Downloads\\fn_ext_leaked_again_by_l1nky_1\\fn ext leaked again by l1nky\\Driver.cpp",
+              "RelativeToolTip": "Driver.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-15T06:31:50.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aimbot.cpp",
+              "DocumentMoniker": "C:\\Users\\Alex\\Downloads\\fn_ext_leaked_again_by_l1nky_1\\fn ext leaked again by l1nky\\Aimbot.cpp",
+              "RelativeDocumentMoniker": "Aimbot.cpp",
+              "ToolTip": "C:\\Users\\Alex\\Downloads\\fn_ext_leaked_again_by_l1nky_1\\fn ext leaked again by l1nky\\Aimbot.cpp",
+              "RelativeToolTip": "Aimbot.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-15T06:31:50.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "imgui.cpp",
+              "DocumentMoniker": "C:\\Users\\Alex\\Downloads\\fn_ext_leaked_again_by_l1nky_1\\fn ext leaked again by l1nky\\Imgui\\imgui.cpp",
+              "RelativeDocumentMoniker": "Imgui\\imgui.cpp",
+              "ToolTip": "C:\\Users\\Alex\\Downloads\\fn_ext_leaked_again_by_l1nky_1\\fn ext leaked again by l1nky\\Imgui\\imgui.cpp",
+              "RelativeToolTip": "Imgui\\imgui.cpp",
+              "ViewState": "AQIAANIfAAAAAAAAAAAcwN8fAADuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-15T06:31:50.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "External.cpp",
+              "DocumentMoniker": "C:\\Users\\Alex\\Downloads\\fn_ext_leaked_again_by_l1nky_1\\fn ext leaked again by l1nky\\External.cpp",
+              "RelativeDocumentMoniker": "External.cpp",
+              "ToolTip": "C:\\Users\\Alex\\Downloads\\fn_ext_leaked_again_by_l1nky_1\\fn ext leaked again by l1nky\\External.cpp",
+              "RelativeToolTip": "External.cpp",
+              "ViewState": "AQIAALsAAAAAAAAAAAAcwNAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-15T06:31:50.395Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
